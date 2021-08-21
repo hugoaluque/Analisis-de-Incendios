@@ -33,7 +33,7 @@ Las imágenes fueron descargadas por la plataforma [Copernicus Open Access Hub](
 ---
 ## 3. Procesamiento de las imágenes 
  
-Todo el análisis se hizo utilizando [QGIS](https://qgis.org/es/site/), apoyandonos de un pluging bastante conocido que es el  [SCP](https://fromgistors.blogspot.com/p/semi-automatic-classification-plugin.html) que entre muchas de las funcionalidades que posee, tenemos el de poder hacer el pre procesamiento de las imágenes. Sumado a ello utilizamos un [modelo automatizado](https://github.com/hugoaluque/Modelo-QGIS_Incendios_Forestales) hecho en el ensamblador de modelos de QGIS, este modelo sirve para determinar area quemada y severidad de la quema utilizando como recurso las imégenes Satelitales  de antes y despues de un incendio.
+Todo el análisis se hizo utilizando [QGIS](https://qgis.org/es/site/), apoyandonos de un pluging bastante conocido que es el  [SCP](https://fromgistors.blogspot.com/p/semi-automatic-classification-plugin.html) que entre muchas de las funcionalidades que posee, tenemos el de poder hacer el pre procesamiento de las imágenes. Sumado a ello utilizamos un [modelo automatizado](https://github.com/hugoaluque/Modelo-QGIS_Incendios_Forestales) hecho en el ensamblador de modelos de QGIS, este modelo sirve para determinar área quemada y severidad de la quema utilizando como recurso las imégenes Satelitales  de antes y despues de un incendio.
  
 ![](./imgs/modelo.PNG) 
  
