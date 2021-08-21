@@ -42,7 +42,6 @@ Todo el análisis se hizo utilizando [QGIS](https://qgis.org/es/site/), apoyando
  
 Los resultados del análisis arrojaron que se quemaron **126,392** hectáreas aproximadamente, en su mayoría pajonales andinos, tipo de vegetación que es predominante en las zonas altiplánicas del Perú como es este caso.
 concretamente el modelo usado nos da como resultado un archivo vectorial (.shp), el cual necesita recibir un pequeño arrego debido a que la metodología usada confunde algunos otros componentes de la superficie como área quemada (sombras, agua y nubes), también puede incluir el área quemada de otro incendio cercano.
- 
 ![](./img/area_quemada.png) 
  
  
@@ -52,5 +51,5 @@ Por otro lado el modelo también calcula la severidad de la quema, obteniendo qu
  
 Finalmente en QGIS se generó un video y una animación en la herramienta de vista 3D, apoyándonos de un modelo digital de elevación descargado con el pluging [SRTM Downloader](https://plugins.qgis.org/plugins/SRTM-Downloader/).
  
-  ![](./GIF-VIDEO/incendio.gif) 
+![](./GIF-VIDEO/incendio.gif) 
 
