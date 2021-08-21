@@ -28,7 +28,7 @@ Con la información del "cuando" y "donde", ya podemos realizar la búsqueda de 
 Las imágenes fueron descargadas por la plataforma [Copernicus Open Access Hub](https://scihub.copernicus.eu/) realizando el filtrado según la información del "cuando" y "donde" del incendio forestal.
  
  
-![](./img/img.png) 
+![](./img/imagen.png) 
  
 ---
 ## 3. Procesamiento de las imágenes 
