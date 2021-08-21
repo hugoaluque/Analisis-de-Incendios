@@ -1,6 +1,6 @@
 # **Teledetección e Incendios Forestales**
  
-Mediante la teledetección es posible monitorear incendios forestales, tanto su como su ubicación como los daños que ocasionan, para ello tenemos una gran cantidad de satélites al servicio de este propósito, uno de los más conocidos quizá es la constelación landsat junto con la constelación sentinel, este último concretamente es el que usamos en este pequeño caso de estudio en donde analizamos un incendio ocurrido en el Departamento de Puno -  Provincia de Lampa - Distrito de Lampa, un pequeño incendio que quemó alrededor de 126 hectáreas.
+Mediante la teledetección es posible monitorear incendios forestales, tanto su como su ubicación como los daños que ocasionan, para ello tenemos una gran cantidad de satélites al servicio de este propósito, uno de los más conocidos quizá es la constelación landsat junto con la constelación sentinel, este último concretamente es el que usamos en este pequeño caso de estudio en donde analizamos un incendio ocurrido en el Departamento de Puno -  Provincia de Lampa - Distrito de Lampa, un pequeño incendio que quemó alrededor de 126,3 hectáreas.
  
 ## 1. Detección del Incendio Forestal
  
